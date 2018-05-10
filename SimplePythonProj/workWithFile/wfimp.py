@@ -1,3 +1,4 @@
+#change for git
 class FileWork:
     def __init__(self,url = 'out.txt',openType = 'r'): #default values
         self.url = url
