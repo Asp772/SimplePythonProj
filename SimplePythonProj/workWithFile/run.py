@@ -23,4 +23,4 @@ wfimp.readFile2()
 print("Press any button...")
 def wait():
     m.getch()
-wait()
+#wait()
